@@ -6,7 +6,7 @@ Front-End Developer
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [ismayilbudaqov16@gmail.com](mailto:ismayilbudaqov16@gmail.com)
-* 🧠  I'm learning React-Native
+* 🧠  
 
 ### Skills
 
